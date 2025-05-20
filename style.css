@@ -1,3 +1,12 @@
-body {
-
+h1 {
+  color: #305CDE;
+  text-decoration: underline 6px orange
 }
+
+body {
+  background-color: #CECECE;
+}
+img:hover {
+  width: 150px;
+  border-radius:40%;
+    border: 10px solid black;
