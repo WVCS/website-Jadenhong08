@@ -1,5 +1,5 @@
 h1 {
-  color: #305CDE;
+  color: #333;
   text-decoration: underline 6px orange
 }
 
@@ -10,4 +10,29 @@ img:hover {
   width: 150px;
   border-radius:40%;
     border: 10px solid black;
+}
+
+
+
+
+nav {
+  list-style-type: none;
+  width: 100%;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+li a {
+  color: gold;
+  text-decoration: none;
+  display: block;
+  padding: 15px 50px;
+  float: left;
+}
+
+li a:hover {
+  background-color: black;
+  color: white;
 }
