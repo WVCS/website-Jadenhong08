@@ -10,8 +10,7 @@ body {
 img {
   width:200px;
   height:200px;
-   border: 10px solid #333;
-  border-radius:30%;
+ 
 }
 img:hover {
   width: 400px;
